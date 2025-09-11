@@ -12,8 +12,8 @@ install.bat
 
 ## 📝 Características
 - [x] Automatización de updates
-- [ ] Limpieza automática
-- [ ] Reportes generados
+- [x] Limpieza automática
+- [x] Reportes generados
 
 ## 🏆 Resultados
 | Métrica | Antes | Después |
