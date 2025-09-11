@@ -33,7 +33,7 @@ C --> D[Fin]
 ```
 
 ## 👨‍💻 Autor
-**Juan Pérez** - [Mi Portfolio](https://mi-portfolio.com)
+**Carlos Cordero** - [Mi Portfolio](https://cacocis.github.io)
 
 *¿Te gustó? ¡Dale una estrella! ⭐*
 @echo off
