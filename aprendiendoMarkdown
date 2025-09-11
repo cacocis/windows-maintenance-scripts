@@ -1,0 +1,38 @@
+# 🚀 Mi Proyecto Profesional
+
+## 📋 Descripción
+Un proyecto que **automatiza tareas** usando scripts en Batch.
+
+## 🛠️ Instalación
+```bash
+git clone https://github.com/usuario/proyecto.git
+cd proyecto
+install.bat
+```
+
+## 📝 Características
+- [x] Automatización de updates
+- [ ] Limpieza automática
+- [ ] Reportes generados
+
+## 🏆 Resultados
+| Métrica | Antes | Después |
+|---------|-------|---------|
+| Tiempo | 2 horas | 15 min |
+| Errores | 15% | 2% |
+
+> [!TIP]
+> **Consejo profesional:** Ejecuta como administrador
+
+## 🔄 Flujo del Proceso
+```mermaid
+graph LR
+A[Inicio] --> B[Ejecutar script]
+B --> C[Verificar resultados]
+C --> D[Fin]
+```
+
+## 👨‍💻 Autor
+**Juan Pérez** - [Mi Portfolio](https://mi-portfolio.com)
+
+*¿Te gustó? ¡Dale una estrella! ⭐*
