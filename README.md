@@ -40,6 +40,19 @@ pause
 
 ### **`cleanup.bat`**
 Limpia archivos temporales de sistema y de usuario utilizando la utilidad `cleanmgr` y comandos `del`.
+```batch
+:: Limpieza de disco
+echo Realizando limpieza de disco...
+cleanmgr /sagerun:1
+
+:: Limpieza de archivos temporales
+echo Limpiando archivos temporales...
+del /s /q %temp%\*
+del /s /q C:\Windows\Temp\*
+rd /s /q %systemdrive%\$Recycle.bin
+echo [INFO] ¡Proceso de limpieza completado!
+pause
+```
 
 ---
 
