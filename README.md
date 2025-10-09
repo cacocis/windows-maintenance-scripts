@@ -1,7 +1,6 @@
 # windows-maintenance-scripts
 Colección de scripts en Batch/CMD para automatización de mantenimiento en Windows.
 
-<!-- Una descripción más detallada y motivadora -->
 **¡Automatiza tareas repetitivas y recupera tiempo para focusearte en lo que realmente importa!** Estos scripts fueron creados y probados en entornos reales durante mis experiencias como técnico en soporte IT.
 
 ---
